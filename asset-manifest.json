@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datapeace/static/css/main.82602c47.css",
-    "main.js": "/datapeace/static/js/main.6efe9d46.js",
-    "static/js/787.8a8c3891.chunk.js": "/datapeace/static/js/787.8a8c3891.chunk.js",
-    "index.html": "/datapeace/index.html",
-    "main.82602c47.css.map": "/datapeace/static/css/main.82602c47.css.map",
-    "main.6efe9d46.js.map": "/datapeace/static/js/main.6efe9d46.js.map",
-    "787.8a8c3891.chunk.js.map": "/datapeace/static/js/787.8a8c3891.chunk.js.map"
+    "main.css": "/datapeace-ai/static/css/main.82602c47.css",
+    "main.js": "/datapeace-ai/static/js/main.6f261f36.js",
+    "static/js/787.8a8c3891.chunk.js": "/datapeace-ai/static/js/787.8a8c3891.chunk.js",
+    "index.html": "/datapeace-ai/index.html",
+    "main.82602c47.css.map": "/datapeace-ai/static/css/main.82602c47.css.map",
+    "main.6f261f36.js.map": "/datapeace-ai/static/js/main.6f261f36.js.map",
+    "787.8a8c3891.chunk.js.map": "/datapeace-ai/static/js/787.8a8c3891.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82602c47.css",
-    "static/js/main.6efe9d46.js"
+    "static/js/main.6f261f36.js"
   ]
 }
